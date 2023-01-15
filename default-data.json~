@@ -1,0 +1,27 @@
+{
+	"rezept1": {
+        "id": "0",
+	"describtion" : "blablabla",
+        "categorys": [
+            "la",
+            "lla"
+        ],
+        "ingredients": {
+            "Mehl": {
+                "unit": "g",
+                "unit_counter": "400"
+            },
+            "Butter": {
+                "unit": "g",
+                "unit_counter": "400"
+            }
+        },
+        "preparation": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ]
+    }
+}

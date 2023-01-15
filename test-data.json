@@ -1,0 +1,152 @@
+{
+    "Apfelkuchen": {
+        "describtion": "leckerer Apfelkuchen wie von Großmutter",
+        "categorys": [
+            "Kuchen",
+            " Gebäck",
+            " deutsch"
+        ],
+        "ingredients": {
+            "Mehl": {
+                "unit": "g",
+                "unit_counter": "100"
+            },
+            "Wasser": {
+                "unit": "ml",
+                "unit_counter": "100"
+            }
+        },
+        "preparation": [
+            "jkdm,",
+            "grjbkdfm"
+        ]
+    },
+    "feadbnsm": {
+        "describtion": "ehwjf,dsm.",
+        "categorys": [
+            "ckdbm",
+            "  vdikn",
+            " test"
+        ],
+        "ingredients": {
+            "bdm": {
+                "unit": " Päckchen",
+                "unit_counter": "100"
+            }
+        },
+        "preparation": [
+            "jhdnm",
+            "rfdsm"
+        ]
+    },
+    "6zedh": {
+        "describtion": "rufhj.ds",
+        "categorys": [
+            "",
+            "jhds",
+            ""
+        ],
+        "ingredients": {
+            "wuejh,dsn": {
+                "unit": "g",
+                "unit_counter": "1"
+            }
+        },
+        "preparation": [
+            "fjdksm"
+        ]
+    },
+    "Pizza": {
+        "describtion": "italienisches Fladenbrot mit Tomatensoße(Marinara), Käse und anderen Topings",
+        "categorys": [
+            "italienisch",
+            "    Gebäck"
+        ],
+        "ingredients": {
+            "Mehl": {
+                "unit": "g",
+                "unit_counter": "400"
+            },
+            "Wasser": {
+                "unit": "ml",
+                "unit_counter": "225"
+            },
+            "Hefe": {
+                "unit": "TL",
+                "unit_counter": "1"
+            },
+            "Salz": {
+                "unit": "TL",
+                "unit_counter": "1"
+            },
+            "Olivenöl": {
+                "unit": "EL",
+                "unit_counter": "2"
+            },
+            "Uhu-Kleber": {
+                "unit": " Päckchen",
+                "unit_counter": "1"
+            }
+        },
+        "preparation": [
+            "Mehl, Wasser, Hefe und Salz verrühren",
+            "Wenn das Ganze langsam zusammenkommt, Olivenöl hinzugeben",
+            "60 Minuten gehen lassen",
+            "Teig ausrollen und mit den topings belegen",
+            "auf ein heißes Backblech legen und backen, bis der Teig goldbraun ist",
+            "Fertig!"
+        ]
+    },
+    "glutenfreies Brot": {
+        "describtion": "Schmeckt Mama ",
+        "categorys": [
+            "Brot",
+            "  Gebäck",
+            " Glutenfrei"
+        ],
+        "ingredients": {
+            "Flohsamenschalen": {
+                "unit": "EL",
+                "unit_counter": "2"
+            },
+            "Kichererbsen": {
+                "unit": "g",
+                "unit_counter": "100"
+            },
+            "Buchweizenmehl": {
+                "unit": "g",
+                "unit_counter": "80"
+            }
+        },
+        "preparation": [
+            "Mischen",
+            "Backen",
+            "fertig!"
+        ]
+    },
+    "test": {
+        "describtion": "",
+        "categorys": [
+            "fzgdsvm",
+            ""
+        ],
+        "ingredients": "",
+        "preparation": ""
+    },
+    "eds,m": {
+        "describtion": "",
+        "categorys": [
+            ""
+        ],
+        "ingredients": "",
+        "preparation": ""
+    },
+    "gdfsmd": {
+        "describtion": "",
+        "categorys": [
+            ""
+        ],
+        "ingredients": "",
+        "preparation": ""
+    }
+}
